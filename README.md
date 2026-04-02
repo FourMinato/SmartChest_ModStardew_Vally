@@ -10,6 +10,7 @@
 
 ## 🛠️ ความต้องการ (Requirements)
 - [SMAPI - Stardew Modding API](https://smapi.io/)
+- GenericModConfigMenu
 - Stardew Valley เวอร์ชั่น 1.6 ขึ้นไป
 
 ## 🚀 วิธีการติดตั้ง (Installation)
